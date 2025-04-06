@@ -59,7 +59,7 @@ describe('Home Page', () => {
     cy.visit('/');
     cy.wait('@getNewReleases');
 
-    cy.wait(100); // Wait for the initial load to complete
+    cy.wait(500); // Wait for the initial load to complete
     cy.testHook('observer').scrollIntoView();
     cy.wait('@getNewReleases');
     cy.testHook('observer').should('not.exist');

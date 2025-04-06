@@ -72,7 +72,7 @@ describe('Release Info Page', () => {
 
     cy.visit('/release/1xQGeKOIMZrPBUlDJuqZGQ');
     cy.wait('@getReleaseInfo');
-    cy.contains('Failed to fetch release info').should('be.visible');
+    cy.testHook('not-found').should('be.visible');
   });
 
   it('should display "Not Found" if the release data is null', () => {
