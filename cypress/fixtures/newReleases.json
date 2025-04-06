@@ -1,0 +1,1372 @@
+{
+  "albums": {
+    "href": "https://api.spotify.com/v1/browse/new-releases?offset=0&limit=30&locale=en;q%3D0.9",
+    "items": [
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+            },
+            "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
+            "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+            "name": "Djo",
+            "type": "artist",
+            "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+        },
+        "href": "https://api.spotify.com/v1/albums/1xQGeKOIMZrPBUlDJuqZGQ",
+        "id": "1xQGeKOIMZrPBUlDJuqZGQ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0203d4a33d03332e44d0dd7fe9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485103d4a33d03332e44d0dd7fe9",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27303d4a33d03332e44d0dd7fe9",
+            "width": 640
+          }
+        ],
+        "name": "The Crux",
+        "release_date": "2025-04-04",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+            },
+            "href": "https://api.spotify.com/v1/artists/5he5w2lnU9x7JFhnwcekXX",
+            "id": "5he5w2lnU9x7JFhnwcekXX",
+            "name": "Skrillex",
+            "type": "artist",
+            "uri": "spotify:artist:5he5w2lnU9x7JFhnwcekXX"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+        },
+        "href": "https://api.spotify.com/v1/albums/784znju28Nz5zSuRuthPcO",
+        "id": "784znju28Nz5zSuRuthPcO",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ef32751589a91db8bb46fa26",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ef32751589a91db8bb46fa26",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ef32751589a91db8bb46fa26",
+            "width": 640
+          }
+        ],
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "release_date": "2025-04-01",
+        "release_date_precision": "day",
+        "total_tracks": 34,
+        "type": "album",
+        "uri": "spotify:album:784znju28Nz5zSuRuthPcO"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/2LiqbH7OhqP0yuaG8VL1wJ",
+            "id": "2LiqbH7OhqP0yuaG8VL1wJ",
+            "name": "Black Sherif",
+            "type": "artist",
+            "uri": "spotify:artist:2LiqbH7OhqP0yuaG8VL1wJ"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+        },
+        "href": "https://api.spotify.com/v1/albums/3gi5efMf1SiQfnqpy1o0CK",
+        "id": "3gi5efMf1SiQfnqpy1o0CK",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0240bf26bf68342abecb59ba93",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485140bf26bf68342abecb59ba93",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27340bf26bf68342abecb59ba93",
+            "width": 640
+          }
+        ],
+        "name": "IRON BOY",
+        "release_date": "2025-04-02",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:3gi5efMf1SiQfnqpy1o0CK"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+            },
+            "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+            "id": "3PhoLpVuITZKcymswpck5b",
+            "name": "Elton John",
+            "type": "artist",
+            "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+            },
+            "href": "https://api.spotify.com/v1/artists/2sG4zTOLvjKG1PSoOyf5Ej",
+            "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+            "name": "Brandi Carlile",
+            "type": "artist",
+            "uri": "spotify:artist:2sG4zTOLvjKG1PSoOyf5Ej"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
+        },
+        "href": "https://api.spotify.com/v1/albums/5eS9zcWHCbkOiyXPRiIgg4",
+        "id": "5eS9zcWHCbkOiyXPRiIgg4",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0283466af7324fe27fddcb1d05",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485183466af7324fe27fddcb1d05",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27383466af7324fe27fddcb1d05",
+            "width": 640
+          }
+        ],
+        "name": "Who Believes In Angels?",
+        "release_date": "2025-04-04",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:5eS9zcWHCbkOiyXPRiIgg4"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+            },
+            "href": "https://api.spotify.com/v1/artists/6AyATGg7mDgBlZ4N5uNog0",
+            "id": "6AyATGg7mDgBlZ4N5uNog0",
+            "name": "SYML",
+            "type": "artist",
+            "uri": "spotify:artist:6AyATGg7mDgBlZ4N5uNog0"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+        },
+        "href": "https://api.spotify.com/v1/albums/779IZOhupymkjX6dzygMl9",
+        "id": "779IZOhupymkjX6dzygMl9",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0221f38c8c5cfd9c07770b4dfd",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485121f38c8c5cfd9c07770b4dfd",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27321f38c8c5cfd9c07770b4dfd",
+            "width": 640
+          }
+        ],
+        "name": "Nobody Lives Here",
+        "release_date": "2025-04-04",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:779IZOhupymkjX6dzygMl9"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4HDfVcO8QmARunFcBJofWQ",
+            "id": "4HDfVcO8QmARunFcBJofWQ",
+            "name": "MICH",
+            "type": "artist",
+            "uri": "spotify:artist:4HDfVcO8QmARunFcBJofWQ"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2LCioUNkd4Jvc479ar0GqJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/2LCioUNkd4Jvc479ar0GqJ",
+        "id": "2LCioUNkd4Jvc479ar0GqJ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e59535134a592ca45e54add2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e59535134a592ca45e54add2",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e59535134a592ca45e54add2",
+            "width": 640
+          }
+        ],
+        "name": "Chair",
+        "release_date": "2025-04-04",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:2LCioUNkd4Jvc479ar0GqJ"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+            },
+            "href": "https://api.spotify.com/v1/artists/0W1IlzwhrQJcdagiDZhrz7",
+            "id": "0W1IlzwhrQJcdagiDZhrz7",
+            "name": "Ben Forte",
+            "type": "artist",
+            "uri": "spotify:artist:0W1IlzwhrQJcdagiDZhrz7"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/79v6kGnaQqAJQdyRChD19U"
+        },
+        "href": "https://api.spotify.com/v1/albums/79v6kGnaQqAJQdyRChD19U",
+        "id": "79v6kGnaQqAJQdyRChD19U",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022e324927b52469bb0cc9a0cb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512e324927b52469bb0cc9a0cb",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e324927b52469bb0cc9a0cb",
+            "width": 640
+          }
+        ],
+        "name": "In je eentje lukt het nooit, maar is dat niet iets moois?",
+        "release_date": "2025-04-04",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:79v6kGnaQqAJQdyRChD19U"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv"
+            },
+            "href": "https://api.spotify.com/v1/artists/0MBeoJ5pWZwyXWuEBmq9Qv",
+            "id": "0MBeoJ5pWZwyXWuEBmq9Qv",
+            "name": "Eric Corton",
+            "type": "artist",
+            "uri": "spotify:artist:0MBeoJ5pWZwyXWuEBmq9Qv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn"
+            },
+            "href": "https://api.spotify.com/v1/artists/51jBhM2gW17sCGLI1eBkDn",
+            "id": "51jBhM2gW17sCGLI1eBkDn",
+            "name": "Maaike Ouboter",
+            "type": "artist",
+            "uri": "spotify:artist:51jBhM2gW17sCGLI1eBkDn"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7ubp1a9BSWo40XNZv2GJyz"
+        },
+        "href": "https://api.spotify.com/v1/albums/7ubp1a9BSWo40XNZv2GJyz",
+        "id": "7ubp1a9BSWo40XNZv2GJyz",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021175316a226f62d1d68f5e2d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511175316a226f62d1d68f5e2d",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731175316a226f62d1d68f5e2d",
+            "width": 640
+          }
+        ],
+        "name": "Dag en Nacht",
+        "release_date": "2025-04-02",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:7ubp1a9BSWo40XNZv2GJyz"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+            },
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "type": "artist",
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+        },
+        "href": "https://api.spotify.com/v1/albums/6cbwstHlsAIIWurIIXXBPd",
+        "id": "6cbwstHlsAIIWurIIXXBPd",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025ab3c842fde848df7a4ee6d9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515ab3c842fde848df7a4ee6d9",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+            "width": 640
+          }
+        ],
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 19,
+        "type": "album",
+        "uri": "spotify:album:6cbwstHlsAIIWurIIXXBPd"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5HU2bzuycGkCc5CNvwm8wV"
+            },
+            "href": "https://api.spotify.com/v1/artists/5HU2bzuycGkCc5CNvwm8wV",
+            "id": "5HU2bzuycGkCc5CNvwm8wV",
+            "name": "Shanee",
+            "type": "artist",
+            "uri": "spotify:artist:5HU2bzuycGkCc5CNvwm8wV"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2pvNhdHmAdIlIsJVpW2pVg"
+        },
+        "href": "https://api.spotify.com/v1/albums/2pvNhdHmAdIlIsJVpW2pVg",
+        "id": "2pvNhdHmAdIlIsJVpW2pVg",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025e74408c8ca4508a103ccd69",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515e74408c8ca4508a103ccd69",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735e74408c8ca4508a103ccd69",
+            "width": 640
+          }
+        ],
+        "name": "MANGA",
+        "release_date": "2025-03-27",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:2pvNhdHmAdIlIsJVpW2pVg"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+            },
+            "href": "https://api.spotify.com/v1/artists/3gd8FJtBJtkRxdfbTu19U2",
+            "id": "3gd8FJtBJtkRxdfbTu19U2",
+            "name": "Mumford & Sons",
+            "type": "artist",
+            "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2"
+          }
+        ],
+        "available_markets": ["CA", "PR", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+        },
+        "href": "https://api.spotify.com/v1/albums/15oPzWZQmZyyrsJt4st3U4",
+        "id": "15oPzWZQmZyyrsJt4st3U4",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fc54e27cde777ca9d302f0a4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fc54e27cde777ca9d302f0a4",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fc54e27cde777ca9d302f0a4",
+            "width": 640
+          }
+        ],
+        "name": "RUSHMERE",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:15oPzWZQmZyyrsJt4st3U4"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+            },
+            "href": "https://api.spotify.com/v1/artists/5YqXgMhzkUnyjYQGgoIvoq",
+            "id": "5YqXgMhzkUnyjYQGgoIvoq",
+            "name": "Architrackz",
+            "type": "artist",
+            "uri": "spotify:artist:5YqXgMhzkUnyjYQGgoIvoq"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5Ap7HrLvJpd1mte45yMUb1"
+        },
+        "href": "https://api.spotify.com/v1/albums/5Ap7HrLvJpd1mte45yMUb1",
+        "id": "5Ap7HrLvJpd1mte45yMUb1",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023df626d96ccc0f632167b154",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513df626d96ccc0f632167b154",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733df626d96ccc0f632167b154",
+            "width": 640
+          }
+        ],
+        "name": "Mi Boi",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:5Ap7HrLvJpd1mte45yMUb1"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+            },
+            "href": "https://api.spotify.com/v1/artists/5WxnXxSCyhDSyi6elhBZd4",
+            "id": "5WxnXxSCyhDSyi6elhBZd4",
+            "name": "Jaap Reesema",
+            "type": "artist",
+            "uri": "spotify:artist:5WxnXxSCyhDSyi6elhBZd4"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4ndyiqm0nYnGDSHrYahF4i"
+        },
+        "href": "https://api.spotify.com/v1/albums/4ndyiqm0nYnGDSHrYahF4i",
+        "id": "4ndyiqm0nYnGDSHrYahF4i",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ecd256006eed0e8d5e3e9d0e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ecd256006eed0e8d5e3e9d0e",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ecd256006eed0e8d5e3e9d0e",
+            "width": 640
+          }
+        ],
+        "name": "Sprakeloos",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4ndyiqm0nYnGDSHrYahF4i"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+            "id": "3hcs9uc56yIGFCSy9leWe7",
+            "name": "Lil Durk",
+            "type": "artist",
+            "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
+        },
+        "href": "https://api.spotify.com/v1/albums/1P7Zt5WwMMY6cwts6WkY1M",
+        "id": "1P7Zt5WwMMY6cwts6WkY1M",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02134a661b340b3add072a23eb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851134a661b340b3add072a23eb",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273134a661b340b3add072a23eb",
+            "width": 640
+          }
+        ],
+        "name": "Deep Thoughts",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 17,
+        "type": "album",
+        "uri": "spotify:album:1P7Zt5WwMMY6cwts6WkY1M"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+            },
+            "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+            "id": "7jVv8c5Fj3E9VhNjxT4snq",
+            "name": "Lil Nas X",
+            "type": "artist",
+            "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
+        },
+        "href": "https://api.spotify.com/v1/albums/1oqxzh4V3jEnNedwoL408R",
+        "id": "1oqxzh4V3jEnNedwoL408R",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025be6d83bbf90e17701d9d61a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515be6d83bbf90e17701d9d61a",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735be6d83bbf90e17701d9d61a",
+            "width": 640
+          }
+        ],
+        "name": "Days Before Dreamboy",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:1oqxzh4V3jEnNedwoL408R"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+            },
+            "href": "https://api.spotify.com/v1/artists/3DHtfeD4PsmR9YGhCP4VF7",
+            "id": "3DHtfeD4PsmR9YGhCP4VF7",
+            "name": "Nemzzz",
+            "type": "artist",
+            "uri": "spotify:artist:3DHtfeD4PsmR9YGhCP4VF7"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD"
+        },
+        "href": "https://api.spotify.com/v1/albums/3uKar0bX3b6g6YcLrGDDuD",
+        "id": "3uKar0bX3b6g6YcLrGDDuD",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0259e7b8bb8bf795c66d7d2692",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485159e7b8bb8bf795c66d7d2692",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27359e7b8bb8bf795c66d7d2692",
+            "width": 640
+          }
+        ],
+        "name": "RENT'S DUE",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:3uKar0bX3b6g6YcLrGDDuD"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+            },
+            "href": "https://api.spotify.com/v1/artists/07D1Bjaof0NFlU32KXiqUP",
+            "id": "07D1Bjaof0NFlU32KXiqUP",
+            "name": "Lucy Dacus",
+            "type": "artist",
+            "uri": "spotify:artist:07D1Bjaof0NFlU32KXiqUP"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
+        },
+        "href": "https://api.spotify.com/v1/albums/2PedUC4azy5ywqWp8gVVrs",
+        "id": "2PedUC4azy5ywqWp8gVVrs",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022b7f29d3b4d4a0078a5490ea",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512b7f29d3b4d4a0078a5490ea",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b7f29d3b4d4a0078a5490ea",
+            "width": 640
+          }
+        ],
+        "name": "Forever Is A Feeling",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:2PedUC4azy5ywqWp8gVVrs"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+            },
+            "href": "https://api.spotify.com/v1/artists/0a1SidMjD8D6EHvJph4n2H",
+            "id": "0a1SidMjD8D6EHvJph4n2H",
+            "name": "Ruger",
+            "type": "artist",
+            "uri": "spotify:artist:0a1SidMjD8D6EHvJph4n2H"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+        },
+        "href": "https://api.spotify.com/v1/albums/6PAGfuja5bu2d7EHzo77uz",
+        "id": "6PAGfuja5bu2d7EHzo77uz",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024ca57a45f53b5fb6bdb465a2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514ca57a45f53b5fb6bdb465a2",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ca57a45f53b5fb6bdb465a2",
+            "width": 640
+          }
+        ],
+        "name": "BlownBoy RU",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:6PAGfuja5bu2d7EHzo77uz"
+      },
+      {
+        "album_type": "ep",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+            },
+            "href": "https://api.spotify.com/v1/artists/7J41Q5hdwuBgyVo7zGhPhO",
+            "id": "7J41Q5hdwuBgyVo7zGhPhO",
+            "name": "MEROL",
+            "type": "artist",
+            "uri": "spotify:artist:7J41Q5hdwuBgyVo7zGhPhO"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Alx3D8sFOF2APdvn2XMHu",
+        "id": "1Alx3D8sFOF2APdvn2XMHu",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ecbb0f5841ea2fef28e23462",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ecbb0f5841ea2fef28e23462",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ecbb0f5841ea2fef28e23462",
+            "width": 640
+          }
+        ],
+        "name": "Diep In De Nacht (Original Soundtrack)",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:1Alx3D8sFOF2APdvn2XMHu"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/29NcmXvID0g9FtDLTvTrxZ",
+            "id": "29NcmXvID0g9FtDLTvTrxZ",
+            "name": "Melle Jutte",
+            "type": "artist",
+            "uri": "spotify:artist:29NcmXvID0g9FtDLTvTrxZ"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1R5xikPLRUDxHlBX8bl1k9"
+        },
+        "href": "https://api.spotify.com/v1/albums/1R5xikPLRUDxHlBX8bl1k9",
+        "id": "1R5xikPLRUDxHlBX8bl1k9",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02337e216deb3acb456c983070",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851337e216deb3acb456c983070",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273337e216deb3acb456c983070",
+            "width": 640
+          }
+        ],
+        "name": "Low Tides",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:1R5xikPLRUDxHlBX8bl1k9"
+      },
+      {
+        "album_type": "ep",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
+            },
+            "href": "https://api.spotify.com/v1/artists/2v9aoqXvaM4EYpccxBYeJ0",
+            "id": "2v9aoqXvaM4EYpccxBYeJ0",
+            "name": "Lola Cedès",
+            "type": "artist",
+            "uri": "spotify:artist:2v9aoqXvaM4EYpccxBYeJ0"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4jCT18pejA7ZErpavi3X4r"
+        },
+        "href": "https://api.spotify.com/v1/albums/4jCT18pejA7ZErpavi3X4r",
+        "id": "4jCT18pejA7ZErpavi3X4r",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed0a57138185759c7f6f120a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ed0a57138185759c7f6f120a",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed0a57138185759c7f6f120a",
+            "width": 640
+          }
+        ],
+        "name": "Dat Je Alles Ziet Wat Ik Liever Niet Laat Zien",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:4jCT18pejA7ZErpavi3X4r"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+            },
+            "href": "https://api.spotify.com/v1/artists/2cwRR7JVxhEre6f0DNRyvW",
+            "id": "2cwRR7JVxhEre6f0DNRyvW",
+            "name": "Elephant",
+            "type": "artist",
+            "uri": "spotify:artist:2cwRR7JVxhEre6f0DNRyvW"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/01WOAs4ZaIyd5Hj2RJ9x6Y"
+        },
+        "href": "https://api.spotify.com/v1/albums/01WOAs4ZaIyd5Hj2RJ9x6Y",
+        "id": "01WOAs4ZaIyd5Hj2RJ9x6Y",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021c69a042248634b2814deaa1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511c69a042248634b2814deaa1",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731c69a042248634b2814deaa1",
+            "width": 640
+          }
+        ],
+        "name": "III",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:01WOAs4ZaIyd5Hj2RJ9x6Y"
+      },
+      {
+        "album_type": "ep",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4JIZ3k1lKVbM61RPGN6QTg",
+            "id": "4JIZ3k1lKVbM61RPGN6QTg",
+            "name": "NOBODYPANICC",
+            "type": "artist",
+            "uri": "spotify:artist:4JIZ3k1lKVbM61RPGN6QTg"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+            },
+            "href": "https://api.spotify.com/v1/artists/5vxYgsUqkYuqL5nLzwnKsk",
+            "id": "5vxYgsUqkYuqL5nLzwnKsk",
+            "name": "OYSTER",
+            "type": "artist",
+            "uri": "spotify:artist:5vxYgsUqkYuqL5nLzwnKsk"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0Vk0mj00Z5ByWu6R2SIEMT"
+        },
+        "href": "https://api.spotify.com/v1/albums/0Vk0mj00Z5ByWu6R2SIEMT",
+        "id": "0Vk0mj00Z5ByWu6R2SIEMT",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed22a9f443cd7f36c98fd809",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ed22a9f443cd7f36c98fd809",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed22a9f443cd7f36c98fd809",
+            "width": 640
+          }
+        ],
+        "name": "GODMODE",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:0Vk0mj00Z5ByWu6R2SIEMT"
+      },
+      {
+        "album_type": "ep",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+            },
+            "href": "https://api.spotify.com/v1/artists/655lv153aeepabVfhjnGwq",
+            "id": "655lv153aeepabVfhjnGwq",
+            "name": "Zo Lief",
+            "type": "artist",
+            "uri": "spotify:artist:655lv153aeepabVfhjnGwq"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3bG3WVRFctCkbixBJC1GO3"
+        },
+        "href": "https://api.spotify.com/v1/albums/3bG3WVRFctCkbixBJC1GO3",
+        "id": "3bG3WVRFctCkbixBJC1GO3",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027c72e7beb1a9a074f6358f81",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517c72e7beb1a9a074f6358f81",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c72e7beb1a9a074f6358f81",
+            "width": 640
+          }
+        ],
+        "name": "Hypnosis",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 6,
+        "type": "album",
+        "uri": "spotify:album:3bG3WVRFctCkbixBJC1GO3"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+            },
+            "href": "https://api.spotify.com/v1/artists/73BLwSX6gsNeVzS7DgI4xe",
+            "id": "73BLwSX6gsNeVzS7DgI4xe",
+            "name": "grentperez",
+            "type": "artist",
+            "uri": "spotify:artist:73BLwSX6gsNeVzS7DgI4xe"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+        },
+        "href": "https://api.spotify.com/v1/albums/3IKIobUDlcwhEs0tGJaLc7",
+        "id": "3IKIobUDlcwhEs0tGJaLc7",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025ab6a1f6a0b18affe5c2886b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515ab6a1f6a0b18affe5c2886b",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ab6a1f6a0b18affe5c2886b",
+            "width": 640
+          }
+        ],
+        "name": "Backflips in a Restaurant",
+        "release_date": "2025-03-28",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:3IKIobUDlcwhEs0tGJaLc7"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zT9SWCzN45r7oVhy0VYLK",
+            "id": "1zT9SWCzN45r7oVhy0VYLK",
+            "name": "S10",
+            "type": "artist",
+            "uri": "spotify:artist:1zT9SWCzN45r7oVhy0VYLK"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5hcGtGFDxmlpKhpD07XXaE"
+        },
+        "href": "https://api.spotify.com/v1/albums/5hcGtGFDxmlpKhpD07XXaE",
+        "id": "5hcGtGFDxmlpKhpD07XXaE",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02672499e953fd3bc1cded32fd",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851672499e953fd3bc1cded32fd",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273672499e953fd3bc1cded32fd",
+            "width": 640
+          }
+        ],
+        "name": "Mijn Haren Ruiken Naar Vuur",
+        "release_date": "2025-03-20",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:5hcGtGFDxmlpKhpD07XXaE"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+            },
+            "href": "https://api.spotify.com/v1/artists/5eir5zFJpES4j7gsymbVyl",
+            "id": "5eir5zFJpES4j7gsymbVyl",
+            "name": "Ronnie Flex",
+            "type": "artist",
+            "uri": "spotify:artist:5eir5zFJpES4j7gsymbVyl"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/73xmQcgQYxMRXsL2aLE6I7"
+        },
+        "href": "https://api.spotify.com/v1/albums/73xmQcgQYxMRXsL2aLE6I7",
+        "id": "73xmQcgQYxMRXsL2aLE6I7",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e3e91778ace039003e9e4626",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e3e91778ace039003e9e4626",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e3e91778ace039003e9e4626",
+            "width": 640
+          }
+        ],
+        "name": "SDL 1",
+        "release_date": "2025-03-20",
+        "release_date_precision": "day",
+        "total_tracks": 19,
+        "type": "album",
+        "uri": "spotify:album:73xmQcgQYxMRXsL2aLE6I7"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+            },
+            "href": "https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx",
+            "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+            "name": "Selena Gomez",
+            "type": "artist",
+            "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa",
+            "id": "5CiGnKThu5ctn9pBxv7DGa",
+            "name": "benny blanco",
+            "type": "artist",
+            "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+        },
+        "href": "https://api.spotify.com/v1/albums/5v7xYJyke25Nmt3l2R7YkR",
+        "id": "5v7xYJyke25Nmt3l2R7YkR",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025c99217c0a33291dcd4e0242",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515c99217c0a33291dcd4e0242",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735c99217c0a33291dcd4e0242",
+            "width": 640
+          }
+        ],
+        "name": "I Said I Love You First",
+        "release_date": "2025-03-21",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:5v7xYJyke25Nmt3l2R7YkR"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EZhPZUiU6c52gOAZLIcR2",
+            "id": "1EZhPZUiU6c52gOAZLIcR2",
+            "name": "Dylisa",
+            "type": "artist",
+            "uri": "spotify:artist:1EZhPZUiU6c52gOAZLIcR2"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX"
+        },
+        "href": "https://api.spotify.com/v1/albums/3YkpSQZPAwtkHQBNQZ7qNX",
+        "id": "3YkpSQZPAwtkHQBNQZ7qNX",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02682f92fb57dece376d870d9b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851682f92fb57dece376d870d9b",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273682f92fb57dece376d870d9b",
+            "width": 640
+          }
+        ],
+        "name": "Think Like a Man",
+        "release_date": "2025-03-21",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:3YkpSQZPAwtkHQBNQZ7qNX"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
+            },
+            "href": "https://api.spotify.com/v1/artists/5cMMheSnLhCt0YdwFkp3R9",
+            "id": "5cMMheSnLhCt0YdwFkp3R9",
+            "name": "Winne",
+            "type": "artist",
+            "uri": "spotify:artist:5cMMheSnLhCt0YdwFkp3R9"
+          }
+        ],
+        "available_markets": ["NL"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5lvqyQEyiR3F8JRQ6qSJcJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/5lvqyQEyiR3F8JRQ6qSJcJ",
+        "id": "5lvqyQEyiR3F8JRQ6qSJcJ",
+        "images": [
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fb252f80e64a68af4445f51a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fb252f80e64a68af4445f51a",
+            "width": 64
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fb252f80e64a68af4445f51a",
+            "width": 640
+          }
+        ],
+        "name": "Mssyeh",
+        "release_date": "2025-03-21",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:5lvqyQEyiR3F8JRQ6qSJcJ"
+      }
+    ],
+    "limit": 30,
+    "next": "https://api.spotify.com/v1/browse/new-releases?offset=30&limit=30&locale=en;q%3D0.9",
+    "offset": 0,
+    "previous": null,
+    "total": 60
+  }
+}

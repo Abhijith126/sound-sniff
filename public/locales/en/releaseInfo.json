@@ -1,0 +1,17 @@
+{
+  "breadcrumb": {
+    "home": "Home"
+  },
+  "card": {
+    "tracks": "Tracks",
+    "releaseDate": "Release Date",
+    "spotifyButton": "Listen on Spotify"
+  },
+  "tracksList": {
+    "no": "#",
+    "name": "Track Name",
+    "artists": "Artists",
+    "album": "Album",
+    "duration": "Duration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "breadcrumb": {
+    "home": "Startpagina"
+  },
+  "card": {
+    "tracks": "Nummers",
+    "releaseDate": "Releasedatum",
+    "spotifyButton": "Luister op Spotify"
+  },
+  "tracksList": {
+    "no": "#",
+    "name": "Tracknaam",
+    "artists": "Artiesten",
+    "album": "Album",
+    "duration": "Duur"
+  }
+}
