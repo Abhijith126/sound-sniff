@@ -11,6 +11,7 @@
 - **State Management**: Powered by Redux and Redux Thunk.
 - **Testing**: Includes Vitest for unit tests and Cypress for end-to-end testing.
 - **ESLint & Prettier**: For code quality and consistency.
+- **Infinite Loading**: It auto loads the next set of releases at end of screen.
 
 ## Technologies
 
