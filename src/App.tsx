@@ -10,7 +10,7 @@ const theme = createTheme(appTheme);
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/sound-sniff">
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Provider store={store}>

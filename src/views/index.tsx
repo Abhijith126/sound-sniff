@@ -1,5 +1,6 @@
 import { Suspense } from 'react';
-import { Navigate, Route, Routes } from 'react-router';
+import { Route, Routes } from 'react-router';
+import { NotFound } from '@/components/template';
 import { Spinner } from '@/components/ui';
 import routes from '@/config/routes';
 
@@ -15,7 +16,7 @@ export const Views = () => {
               element={<route.component />}
             />
           ))}
-          <Route path="/" element={<Navigate to="/dashboard" replace />} />
+          <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
     </Suspense>
