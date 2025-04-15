@@ -2,6 +2,8 @@
 
 **SoundSniff Music Explorer** is a modern music exploration web app built with React, Redux, and Vite. It provides an interface to explore music data with features such as multi-language support, API calls, and testing setups.
 
+#### Demo: https://abhijith126.github.io/sound-sniff/
+
 ## Features
 
 - **Music Exploration**: Explore albums, artists, and tracks.
