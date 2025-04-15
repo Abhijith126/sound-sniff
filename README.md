@@ -28,16 +28,22 @@
 
 To get started with the project, follow these steps:
 
-1. Download the Project Zip
+1. Clone the Project
 
 ```bash
-# If you are reading this, then you have already completed this step.
+git clone https://github.com/Abhijith126/sound-sniff.git
 ```
 
 2. Install dependencies
 
 ```bash
 npm install
+```
+
+3. Start the app
+
+```bash
+npm run dev
 ```
 
 ## Environment Variable configuration
