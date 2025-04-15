@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "SoundSniff",
+    "subtitle": ""
+  },
+  "theme": {
+    "dark": "Donkere modus",
+    "light": "Lichte modus"
+  },
+  "notfound": {
+    "title": "404",
+    "description": "Oeps! De pagina die je zoekt bestaat niet.",
+    "back": "Ga naar home"
+  },
+  "translation": {
+    "tooltip": "Taal wijzigen",
+    "english": "English",
+    "dutch": "Nederlands"
+  }
+}
