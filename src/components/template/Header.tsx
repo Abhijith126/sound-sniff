@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router';
-import { DarkMode, LightMode, MusicNote, Translate } from '@mui/icons-material';
+import { DarkMode, LightMode, Translate } from '@mui/icons-material';
 import { Menu, MenuItem, Tooltip, useColorScheme } from '@mui/material';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
@@ -9,6 +9,7 @@ import Container from '@mui/material/Container';
 import IconButton from '@mui/material/IconButton';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
+import Logo from '/logo.png';
 
 function Header() {
   const { mode, setMode } = useColorScheme();
@@ -38,7 +39,9 @@ function Header() {
     <AppBar position="static" color="secondary">
       <Container maxWidth={false}>
         <Toolbar disableGutters>
-          <MusicNote sx={{ display: 'flex', mr: 1 }} />
+          <Box sx={{ mr: 1 }}>
+            <img src={Logo} alt={t('header.title')} loading="lazy" width={30} />
+          </Box>
           <Typography
             variant="h5"
             noWrap
