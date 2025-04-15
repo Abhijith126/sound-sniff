@@ -2,6 +2,7 @@
   "name": "sound-sniff",
   "private": true,
   "version": "1.0.0",
+  "homepage": "https://abhijith126.github.io/sound-sniff",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -11,7 +12,9 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "format": "prettier --write .",
-    "cy:open": "cypress open --config-file cypress/config/cypress.config.ts"
+    "cy:open": "cypress open --config-file cypress/config/cypress.config.ts",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@mui/icons-material": "^7.0.1",
@@ -19,6 +22,7 @@
     "@reduxjs/toolkit": "^2.6.1",
     "axios": "^1.8.4",
     "dayjs": "^1.11.13",
+    "gh-pages": "^6.3.0",
     "i18next": "^24.2.3",
     "i18next-http-backend": "^3.0.2",
     "react": "^19.0.0",
